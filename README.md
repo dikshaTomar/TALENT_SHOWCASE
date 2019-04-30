@@ -1,2 +1,2 @@
-# TALENT_SHOWCASE
+# TALENTSHOWCASE
 Web Development Project
